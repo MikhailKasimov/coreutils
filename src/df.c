@@ -1501,6 +1501,7 @@ or all file systems by default.\n\
   -i, --inodes          list inode information instead of block usage\n\
   -k                    like --block-size=1K\n\
   -l, --local           limit listing to local file systems\n\
+  -m                    like --block-size=1M\n\
       --no-sync         do not invoke sync before getting usage info (default)\
 \n\
 "), stdout);
